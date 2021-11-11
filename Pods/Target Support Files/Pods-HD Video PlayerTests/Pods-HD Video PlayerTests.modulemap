@@ -1,0 +1,6 @@
+framework module Pods_HD_Video_PlayerTests {
+  umbrella header "Pods-HD Video PlayerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

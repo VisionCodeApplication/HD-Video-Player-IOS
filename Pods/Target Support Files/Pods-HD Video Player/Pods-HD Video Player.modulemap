@@ -1,0 +1,6 @@
+framework module Pods_HD_Video_Player {
+  umbrella header "Pods-HD Video Player-umbrella.h"
+
+  export *
+  module * { export * }
+}
